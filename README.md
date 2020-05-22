@@ -1,2 +1,2 @@
 # apache-cordova
-React-Typescirpt Cordova Mobile Project
+React-Typescirpt-Cordova Mobile Project
